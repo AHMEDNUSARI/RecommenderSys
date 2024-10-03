@@ -1,12 +1,12 @@
-Course Recommender System
+# **Course Recommender System**
 
-Overview
+# **Overview**
 
 The Course Recommender System helps users find the most suitable courses based on specific criteria such as course title, skill to be gained, or keywords. With a comprehensive dataset containing various details about thousands of courses, users can easily search for courses that match their learning preferences and goals.
 
 The recommender system leverages data such as course ratings, duration, level, and topics to guide users in selecting the best courses. It also integrates a Large Language Model (LLM), Ollama2, to enhance the recommendation experience and provide more intuitive suggestions.
 
-Dataset
+# **Dataset**
 
 The dataset used in this project includes the following columns:
 
@@ -63,7 +63,7 @@ Course Title	Rating	Level	Duration	Schedule	Review	What You Will Learn	Skill Gai
 Fashion as Design	4.8	Beginner	20 hours (approximately)	Flexible schedule	2813	Art History, Art, History, Creativity Arts and...	Art History, Art, History, Creativity	Introduction, Heroes, Silhouettes, ...	Anna Burckhardt, Paola Antonelli ...	The Museum of Modern Art	Arts and Humanities	Course Link	20.0
 The filtered courses will be displayed with all columns, making it easy for users to explore options.
 
-Future Enhancements
+# **Future Enhancements**
 
 Some potential future improvements include:
 
